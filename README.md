@@ -1,4 +1,6 @@
-# DCJCET 
+# DC-JCET 🐱‍🏍
 
-## This is the github organization of DevelopersClub at JCETH  
+## This is the official github organization of DevelopersClub at JCETH 🏫
+
+
 
